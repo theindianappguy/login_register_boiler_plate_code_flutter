@@ -1,16 +1,27 @@
-# login_register_app
+![login register boiler plate flutter](https://user-images.githubusercontent.com/55942632/71444840-84ee0800-273a-11ea-8315-2ea58dd37bd1.png)
 
-A new Flutter application.
+Creating Login & Register Screen Again and again not anymore, this is Boiler plate code for Login/Singin & Register/SignUp Screen just change the image update the text and DONE...
 
-## Getting Started
+(If this repo cross 30+ Stars i will add firebase login to this as well)
 
-This project is a starting point for a Flutter application.
+## Show Support
+* [Recommend Me On LinkedIn](https://www.linkedin.com/in/lamsanskar/) - I will realy Appriciate this
+* Don't forget to star ⭐ the repo 😉, it's FREE.
 
-A few resources to get you started if this is your first Flutter project:
+## Requirements
+- Any Operating System (ie. MacOS X, Linux, Windows)
+- Android Studio/Visual Studio Code
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Join Us
+* [Join Our Facebook Group](https://www.facebook.com/groups/519517995532897/) - I share a lot of value in it
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Pull Requests
+I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request. Here are some basic rules to follow to ensure timely addition of your request:
+  1. If its a feature, bugfix, or anything please only change code to what you specify.
+  1. Please keep PR titles easy to read and descriptive of changes, this will make them easier to merge :)
+  1. Pull requests _must_ be made against `develop` branch. Any other branch (unless specified by the maintainers) will get rejected.
+  1. Check for existing first, before filing an issue.
+  1. Have fun!
+  
+[![Copy of App Privacy Policy Generator](https://user-images.githubusercontent.com/55942632/71420024-dc3b9c00-2698-11ea-8c14-f4deeebbc6f1.png)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Ftheindianappguy%2Flogin_register_boiler_plate_code_flutter&text=Creating%20Login%20%26%20Register%20Screen%20Again%20and%20again%20not%20anymore%2C%20this%20is%20Boiler%20plate%20code%20for%20Login%2FSingin%20%26%20Register%2FSignUp%20Screen%20just%20change%20the%20image%20update%20the%20text%20and%20DONE...)
+
