@@ -4,9 +4,13 @@ Creating Login & Register Screen Again and again not anymore, this is Boiler pla
 
 (If this repo cross 30+ Stars i will add firebase login to this as well)
 
-## Show Support
-* [Recommend Me On LinkedIn](https://www.linkedin.com/in/lamsanskar/) - I will realy Appriciate this
-* Don't forget to star ⭐ the repo 😉, it's FREE.
+### Created & Maintained By
+
+[Sanskar Tiwari](https://github.com/theindianappguy) ([@indianappguy](https://twitter.com/indianappguy)) ([YouTube](https://www.youtube.com/c/SanskarTiwari))
+
+> If you found this project helpful or you learned something from the source code and want to thank me,
+> consider checking out what i am building at [MagicSlides.app](https://www.magicslides.app), [MagicForm.app](https://www.magicform.app) & [SheetAI.app](https://www.sheetai.app)
+
 
 ## Requirements
 - Any Operating System (ie. MacOS X, Linux, Windows)
